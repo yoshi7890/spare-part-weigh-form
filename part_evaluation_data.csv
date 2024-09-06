@@ -1,2 +1,38 @@
-01-0770029-29,A000-01,MAIN STROBE LIGHT,Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง
-01-0770029-29,A000-01,MAIN STROBE LIGHT,Important,Important,Important,Standard,10,1.2,ความสำคัญปานกลาง
+,Part ID,Description,Safety,Operational,Availability,Usage Frequency,Total Point,Weight,,,,,,,,,,
+01-0770029-29,A000-01,MAIN STROBE LIGHT,Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง,,,,,,,,,
+01-0770054-01,A000-03,LIGHT ASSEMBLY R/H,Critical,Standard,Standard,Standard,8,1,ความสำคัญต่ำ,,,,,,,,,
+01-0770062-03,A000-04,POWER SUPPLY A12,Important,Important,Important,Important,12,1.2,ความสำคัญปานกลาง05228-7579431AM,A000-09,FILTER ELEMENT-5 ,Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง
+066-3064-05,A000-10,ENCODING ALTIMETER-KEA130ABX,Critical,Standard,Standard,Standard,8,1,ความสำคัญต่ำ,,,,,,,,,
+08.1.0165,A000-11,LOK ACTUATOR ,Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง,,,,,,,,,
+10-2603.3178K,A000-12,Single Led (White),Standard,Standard,Standard,Standard,4,1,ความสำคัญต่ำ,,,,,,,,,
+101375,A000-13,PULL PLUG BLADE CLAMP,Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง,,,,,,,,,
+102-00035-01,A000-14,BULB,Standard,Standard,Standard,Standard,4,1,ความสำคัญต่ำ,,,,,,,,,1024893,A000-15,Spring Rudder Pedal05,Critical,Standard,Standard,Standard,8,1.0,ความสำคัญต่ำ
+1024893-1,A000-16,"Spring,Rudder Pedal06",Critical,Critical,Standard,Standard,12,1.2,ความสำคัญปานกลาง
+1031595,A000-17,LOCK SCREW,Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง
+108S16,A000-18,FELT PACKING,Standard,Standard,Standard,Standard,4,1.0,ความสำคัญต่ำ
+109-250-101,A000-19,CIRCUIT BREAKER-6,Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง
+10AT96-1,A000-20,SWITCH,Important,Important,Important,Standard,10,1.2,ความสำคัญปานกลาง
+110-40001,A000-21,TRANSMITTER,Critical,Important,Important,Important,14,1.2,ความสำคัญปานกลาง
+1114003-4-11,A000-22,BUMPER  ASSEMBLY,Critical,Critical,Important,Important,16,1.5,ความสำคัญสูง
+1115152,A000-23,STOP ASSEMBLY,Standard,Standard,Standard,Standard,4,1.0,ความสำคัญต่ำ
+1115802,A000-24,"SPACER BUSHING,SLEEVE",Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง
+1115803,A000-25,PIN,Standard,Standard,Standard,Standard,4,1.0,ความสำคัญต่ำ
+1115806,A000-26,PIN,Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง
+1115818,A000-27,SCREW,Standard,Standard,Standard,Standard,4,1.0,ความสำคัญต่ำ
+1115820,A000-28,PIN,Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง
+1116707,A000-29,BUSHING,Standard,Standard,Standard,Standard,4,1.0,ความสำคัญต่ำ
+1116960,A000-30,HOSE ASSY,Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง
+1117998,A000-31,PIN LOCKING,Critical,Critical,Standard,Standard,12,1.2,ความสำคัญปานกลาง
+1118147,A000-32,"BEARING, BALL",Standard,Standard,Standard,Standard,4,1.0,ความสำคัญต่ำ
+1118149,A000-33,BEARING BALL,Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง
+111904-12-223,A000-34,BOLT,Standard,Standard,Standard,Standard,4,1.0,ความสำคัญต่ำ
+111904-12-301,A000-35,BOLT,Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง
+111904-14-219,A000-36,BOLT,Critical,Standard,Standard,Standard,8,1.0,ความสำคัญต่ำ
+1119802,A000-37,Gage Assembly,Standard,Standard,Standard,Standard,4,1.0,ความสำคัญต่ำ
+113-30001,A000-38,FUEL AND HYDRAULIC SHUT OFF SWITCH A-1,Critical,Critical,Critical,Standard,16,1.5,ความสำคัญสูง
+113-30002,A000-39,FUEL AND HYDRAULIC SHUT OFF SWITCH A2,Critical,Critical,Critical,Important,18,1.5,ความสำคัญสูง
+114-40001,A000-40,FUEL PROBE A1,Critical,Critical,Critical,Critical,20,1.5,ความสำคัญสูง
+114-40002,A000-41,FUEL PROBE A2,Critical,Critical,Important,Critical,18,1.5,ความสำคัญสูง
+116500-20C020,A000-42,BUSHING,Critical,Critical,Important,Important,16,1.5,ความสำคัญสูง
+13-07660,A000-43,Fire Extinguisher,Standard,Standard,Standard,Standard,4,1.0,ความสำคัญต่ำ
+111904-12-301,A000-35,BOLT,Critical,Standard,Standard,Standard,8,1.0,ความสำคัญต่ำ

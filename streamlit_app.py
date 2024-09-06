@@ -55,7 +55,7 @@ if uploaded_file is not None:
     st.write(f'คะแนนรวม: {total_score}')
 
     # เปรียบเทียบกับค่าหน้ำนัก
-    st.subheader('เปรียบเทียบกับค่าหน้ำนัก')
+    st.subheader('เปรียบเทียบกับค่าน้ำหนัก')
     if total_score >= 15:
         weight_factor = 1.5
         importance = 'ความสำคัญสูง'
